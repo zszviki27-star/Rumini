@@ -1,0 +1,6 @@
+{
+  "name": "Rumini – A Hétágú Szigony kaland",
+  "description": "Interaktív képes kalandjáték Egérváros bazárjától a Szélkirálynő fedélzetéig.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
